@@ -1,0 +1,1 @@
+# Shiva's CS:GO Config
